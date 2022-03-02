@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ledoux23
 - 👀 I’m interested in any web development project that would help improve my skills as a professional developer.
 - 🌱 I’m currently learning HTML/CSS, JavaScript and development tools best practices.
-
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 Ledoux23/Ledoux23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
